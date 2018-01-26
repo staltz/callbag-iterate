@@ -2,6 +2,10 @@
   "name": "callbag-iterate",
   "version": "1.0.0",
   "description": "Callbag puller sink that iterates over a pullable source",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staltz/callbag-iterate.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
