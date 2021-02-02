@@ -1,5 +1,7 @@
 # callbag-iterate
 
+**DEPRECATED IN FAVOR OF [callbag-for-each](https://github.com/staltz/callbag-for-each)**
+
 A callbag puller sink which iterates through data from a pullable source. Think of it as a forEach loop for pullables.
 
 `npm install callbag-iterate`
